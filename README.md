@@ -69,7 +69,8 @@ $ npm run dev
 
 ## 🛠️ Authors
 
-👩‍💻 Gulam Quadir Parwez [@GulamQuadir500](https://github.com/GulamQuadir500)
+👩‍💻 Ankit Kumar 
+
 
 
 
