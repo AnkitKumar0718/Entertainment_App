@@ -22,7 +22,7 @@ To use the application, visit [Movies Entertainment App](https://movies-entertai
 
 ## 🚀 Technologies Used
 
-This application was created using [create-t3-app](https://github.com/t3-oss/create-t3-app) and built using the following technologies:
+This application is created using these technologies:
 
 - [Next.js](https://nextjs.org/) : A React framework for building server-side rendered and static web applications.
 - [tRPC](https://trpc.io/) : A framework for building end-to-end typesafe APIs with TypeScript.
