@@ -1,24 +1,16 @@
-<p align="center">
-  <img width="320" src="./public/readme-logo.svg">
-</p>
+# Movies Entertainment App
 
-# 🍿 Movies Entertainment App
+## Introduction:
 
-## 🙌 Introduction
+The Movies Entertainment App is a full-stack movie and TV series entertainment application. The aim of this project was to practice full-stack development skills and to learn new interesting technologies. With this app, users can easily find a movie or TV series, watch a trailer, leave a comment, and add it to their bookmarks. They can also change the theme of the app.
 
-The [Movies Entertainment App](https://movies-entertainment-app-three-triump.netlify.app/) is a full-stack movie and TV series entertainment application. The aim of this project was to practice full-stack development skills and to learn new interesting technologies. With this app, users can easily find a movie or TV series, watch a trailer, leave a comment, and add it to their bookmarks. They can also change the theme of the app.
-
-## 👀 Features
+## Features:
 
 - Search: Users can easily find movies and TV series using the search functionality.
 - Watch Trailers and Pictures: Users can watch trailers and view pictures of movies and TV series.
 - Leave Reviews: Users can leave reviews for movies and TV series.
 - Bookmarks: Users can add movies and TV series to their bookmarks for easy access later.
 - Theme Change: Users can change the theme of the application according to their preferences.
-
-## 🌐 Preview
-
-To use the application, visit [Movies Entertainment App](https://movies-entertainment-app-three-triump.netlify.app/) and log in using your Google or Github account to access extra features like reviews and bookmarks.
 
 ## 🚀 Technologies Used
 
@@ -33,6 +25,12 @@ This application is created using these technologies:
 - [Supabase](https://supabase.com/) : An open-source Firebase alternative for building and scaling complex applications.
 - [Axios](https://axios-http.com/) : A promise-based HTTP client for the browser and Node.js.
 - [lodash](https://lodash.com/) : A JavaScript utility library delivering consistency, modularity, performance, and extras.
+
+  ## Contact :
+
+  If you have any questions or need further assistance, please contact [chauhanankitkumar8@gmail.com].
+
+Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.
 
 ## ❓ How To Use
 1. Fork this repository
