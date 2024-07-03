@@ -26,12 +26,6 @@ This application is created using these technologies:
 - [Axios](https://axios-http.com/) : A promise-based HTTP client for the browser and Node.js.
 - [lodash](https://lodash.com/) : A JavaScript utility library delivering consistency, modularity, performance, and extras.
 
-  ## Contact :
-
-  If you have any questions or need further assistance, please contact [chauhanankitkumar8@gmail.com].
-
-Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.
-
 ## ❓ How To Use
 1. Fork this repository
 
@@ -64,6 +58,15 @@ $ npm run dev
 - Open http://localhost:3000 in your browser to view the app.
 
 7. Voila, you're ready to create something awesome!
+
+  ## Contact :
+
+  If you have any questions or need further assistance, please contact [chauhanankitkumar8@gmail.com].
+
+Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.
+
+## deployment:
+https://movies-entertainment-app-three-triump.netlify.app/
 
 ## 🛠️ Authors
 
